@@ -1,3 +1,5 @@
+# The issue at https://github.com/apache/shardingsphere/pull/15260 has been resolved, archived in this repository.
+
 ## Investigation of #15260
 - Investigation of YAML deserialization issue at https://github.com/apache/shardingsphere/pull/15260 . 
 - The problem of main investigation is `org.apache.shardingsphere.mode.manager.cluster.coordinator.registry.process.subscriber.ProcessRegistrySubscriberTest` test failed.
